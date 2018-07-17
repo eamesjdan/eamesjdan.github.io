@@ -1,0 +1,25 @@
+city,quarter,wind_direction,births
+Copenhagen,1,198.8312836,2448
+Copenhagen,2,197.7071939,2476
+Copenhagen,3,204.8349861,2707
+Copenhagen,4,222.4611773,2526
+Aarhus,1,168,1023
+Aarhus,2,196,1151
+Aarhus,3,291,1209
+Aarhus,4,223,1125
+Odense,1,251,504
+Odense,2,275,593
+Odense,3,265,585
+Odense,4,203,551
+Aalborg,1,270,532
+Aalborg,2,270,574
+Aalborg,3,270,662
+Aalborg,4,270,577
+Frederiksberg,1,198.8312836,335
+Frederiksberg,2,197.7071939,409
+Frederiksberg,3,204.8349861,441
+Frederiksberg,4,222.4611773,344
+Windy City,1,0,2000
+Windy City,2,90,1000
+Windy City,3,180,500
+Windy City,4,20,100
